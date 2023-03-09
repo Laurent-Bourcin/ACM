@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="modelisation_page_1.svg"
+   inkscape:export-filename="C:\Users\User\formation_evaluations\ACM\modelisation_page_1.png"
+   inkscape:export-xdpi="101"
+   inkscape:export-ydpi="101">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect827"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect825"
+       is_visible="true"
+       steps="1"
+       threshold="0.00317343"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="189.81313"
+     inkscape:cy="577.38672"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="988"
+     inkscape:window-x="1272"
+     inkscape:window-y="198"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#d74f16;fill-opacity:0.88265303;fill-rule:evenodd;stroke:#000000;stroke-width:0.60808229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect10"
+       width="208.94191"
+       height="35.450848"
+       x="2.0642483"
+       y="1.4712089" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-46.869045"
+       y="16.541666"
+       id="text819"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="-46.869045"
+         y="16.541666"
+         style="stroke-width:0.26458332px">HEADER</tspan></text>
+    <path
+       style="opacity:1;fill:#d74f16;fill-opacity:0.88265303;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path829"
+       d="m -13.62167,15.49327 c 1.34938,0.0046 2.698774,0.0025 4.0481588,0.0013 0.8896746,-8.46e-4 1.7793498,-0.0013 2.6690248,-0.0015 0.7551377,-1.34e-4 1.5102752,-1.19e-4 2.2654127,-1.15e-4 0.7538117,7e-6 1.5076231,1.3e-5 2.2614344,1.6e-5 0.1402453,1.19e-4 0.2804905,2.37e-4 0.4207357,3.44e-4 -0.2909498,-0.0023 1.1744328,0.0026 0.8808325,1.45e-4 -3.401821,-0.02876 -4.3990597,0.135196 -2.9467576,-0.07659 0,0 3.70624347,0.522284 3.70624347,0.522284 v 0 c -1.88729207,0.375138 -3.84113997,0.08779 -5.75679467,0.139155 -0.7538783,3e-6 -1.5077567,9e-6 -2.261635,1.6e-5 -0.7546541,3e-6 -1.5093082,1.9e-5 -2.2639621,-1.15e-4 -0.883435,-2.08e-4 -1.766869,-6.35e-4 -2.650304,-0.0015 -1.355073,-0.0011 -2.710155,-0.0032 -4.065224,0.0014 0,0 3.692835,-0.584888 3.692835,-0.584888 z"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51.782738"
+       y="18.809523"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="51.782738"
+         y="18.809523"
+         style="stroke-width:0.26458332px">About  Event  Workshop  News  Contact</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#579c16;fill-opacity:0.88265303;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path839"
+       cx="19.087797"
+       cy="17.486605"
+       rx="16.441963"
+       ry="12.662203" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11.717258"
+       y="18.809525"
+       id="text833"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="11.717258"
+         y="18.809525"
+         style="stroke-width:0.26458332px">LOGO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="179.91667"
+       y="9.3601189"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="179.91667"
+         y="9.3601189"
+         style="stroke-width:0.26458332px">Logo</tspan><tspan
+         sodipodi:role="line"
+         x="179.91667"
+         y="15.53373"
+         style="stroke-width:0.26458332px"
+         id="tspan845">Facebook</tspan><tspan
+         sodipodi:role="line"
+         x="179.91667"
+         y="21.70734"
+         style="stroke-width:0.26458332px"
+         id="tspan847">Instagram</tspan><tspan
+         sodipodi:role="line"
+         x="179.91667"
+         y="27.880951"
+         style="stroke-width:0.26458332px"
+         id="tspan849">Pinterest</tspan></text>
+    <rect
+       style="opacity:1;fill:#579c16;fill-opacity:0.15816327;fill-rule:evenodd;stroke:#000000;stroke-width:0.45068833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect851"
+       width="207.41304"
+       height="74.570107"
+       x="2.0250092"
+       y="36.88282" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.586308"
+       y="80.797615"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="58.586308"
+         y="80.797615"
+         style="stroke-width:0.26458332px">Caroussel Bootstrap with news </tspan></text>
+    <rect
+       style="opacity:1;fill:#579c16;fill-opacity:0.15816327;fill-rule:evenodd;stroke:#000000;stroke-width:0.50028479;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect851-2"
+       width="207.36345"
+       height="91.907417"
+       x="2.0745964"
+       y="111.45293" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="86.203354"
+       y="138.68164"
+       id="text874"><tspan
+         sodipodi:role="line"
+         id="tspan872"
+         x="86.203354"
+         y="138.68164"
+         style="stroke-width:0.26458332px">Our missions</tspan><tspan
+         sodipodi:role="line"
+         x="86.203354"
+         y="144.85526"
+         style="stroke-width:0.26458332px"
+         id="tspan876" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="18.923588"
+       y="162.87212"
+       id="text880"><tspan
+         sodipodi:role="line"
+         x="18.923588"
+         y="162.87212"
+         style="stroke-width:0.26458332px"
+         id="tspan886">Share knowledge</tspan><tspan
+         sodipodi:role="line"
+         x="18.923588"
+         y="169.04573"
+         style="stroke-width:0.26458332px"
+         id="tspan925">to people</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.869888"
+       y="162.38249"
+       id="text880-2"><tspan
+         sodipodi:role="line"
+         x="75.869888"
+         y="162.38249"
+         style="stroke-width:0.26458332px"
+         id="tspan921">cfind together how</tspan><tspan
+         sodipodi:role="line"
+         x="75.869888"
+         y="168.55611"
+         style="stroke-width:0.26458332px"
+         id="tspan929">to colonize Mars </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="140.50381"
+       y="162.38249"
+       id="text880-9"><tspan
+         sodipodi:role="line"
+         x="140.50381"
+         y="162.38249"
+         style="stroke-width:0.26458332px"
+         id="tspan886-1">obtain donations </tspan><tspan
+         sodipodi:role="line"
+         x="140.50381"
+         y="168.55611"
+         style="stroke-width:0.26458332px"
+         id="tspan933">for research</tspan></text>
+    <rect
+       style="opacity:1;fill:#579c16;fill-opacity:0.15816327;fill-rule:evenodd;stroke:#000000;stroke-width:0.43916565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect851-2-1"
+       width="207.42458"
+       height="70.801872"
+       x="2.0440311"
+       y="203.32979" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="74.51741"
+       y="213.04063"
+       id="text874-5"><tspan
+         sodipodi:role="line"
+         id="tspan872-1"
+         x="74.51741"
+         y="213.04063"
+         style="stroke-width:0.26458332px">Help us for research</tspan><tspan
+         sodipodi:role="line"
+         x="74.51741"
+         y="219.21425"
+         style="stroke-width:0.26458332px"
+         id="tspan876-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80.886909"
+       y="242.9494"
+       id="text1009"><tspan
+         sodipodi:role="line"
+         id="tspan1007"
+         x="80.886909"
+         y="242.9494"
+         style="stroke-width:0.26458332px">Donate button</tspan></text>
+    <rect
+       style="opacity:1;fill:#d74f16;fill-opacity:0.88265303;fill-rule:evenodd;stroke:#000000;stroke-width:0.47790012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect10-4"
+       width="210.28357"
+       height="21.75687"
+       x="-0.34843987"
+       y="274.76389" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-49.715504"
+       y="285.19312"
+       id="text819-6"><tspan
+         sodipodi:role="line"
+         id="tspan817-4"
+         x="-49.715504"
+         y="285.19312"
+         style="stroke-width:0.26458332px">Footer</tspan></text>
+    <path
+       style="opacity:1;fill:#d74f16;fill-opacity:0.88265303;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path829-8"
+       d="m -16.468126,284.1447 c 1.34938,0.005 2.698774,0.002 4.048159,10e-4 0.889675,-8.5e-4 1.779351,-10e-4 2.6690246,-0.002 0.75514,-1.4e-4 1.510276,-1.2e-4 2.265413,-1.2e-4 0.753811,1e-5 1.507622,2e-5 2.261436,2e-5 0.140245,1.2e-4 0.28049,2.4e-4 0.420735,3.4e-4 -0.290951,-0.002 1.1744327,0.003 0.8808327,1.5e-4 -3.4018217,-0.0288 -4.3990607,0.13519 -2.9467577,-0.0766 0,0 3.7062437,0.52228 3.7062437,0.52228 v 0 c -1.8872937,0.37514 -3.8411407,0.0878 -5.7567957,0.13916 -0.753877,0 -1.5077566,1e-5 -2.2616346,1e-5 -0.754656,10e-6 -1.509308,2e-5 -2.263964,-1.1e-4 -0.883433,-2.1e-4 -1.766869,-6.4e-4 -2.650302,-0.002 -1.355074,-0.001 -2.710156,-0.003 -4.065225,10e-4 0,0 3.692835,-0.58489 3.692835,-0.58489 z"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="83.532738"
+       y="286.79465"
+       id="text1049"><tspan
+         sodipodi:role="line"
+         id="tspan1047"
+         x="83.532738"
+         y="286.79465"
+         style="stroke-width:0.26458332px">3 sites references with logo link</tspan></text>
+  </g>
+</svg>
