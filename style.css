@@ -1,0 +1,32 @@
+.logo img {
+  display: block;
+  max-width: 40px;
+  height: auto;
+}
+
+header div h1 {
+  font-family: seriff;
+}
+
+header div h1 span {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+header nav ul {
+  background-color: rgb(174, 93, 81);
+}
+
+header nav ul li {
+  font-family: seriff;
+  font-size: 1.1em;
+}
+
+header nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+header nav ul li:hover {
+  background: rgb(223, 71, 89);
+}

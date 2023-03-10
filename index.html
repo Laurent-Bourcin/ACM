@@ -6,41 +6,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./Bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <header>
-        <span>
-            <img src="./Images/Logo_ACM.png" alt="Logo ACM">
-        </span>
+    <header class="container-fluid bg-danger">
+        <div class="row">
+            <span class="col">
+                <img src="./Images/Logo_ACM.png" alt="Logo ACM" class="pt-2">
+            </span>
 
-        <h1>Association pour la colonisation de Mars</h1>
+            <h1 class="col-9 text-center my-auto"><span>A</span>ssociation pour la 
+                <span>C</span>olonisation de <span>M</span>ars</h1>
 
-        <nav>
-            <ul>
-                <li>A propos</li>
-                <li>Evenements</li>
-                <li>Boutique</li>
-                <li>Actualité</li>
-                <li>Contact</li>
+            <div class="col my-auto">
+                <ul class="list-unstyled">
+                    <li class="logo">
+                        <a target="_blank" href="https://fr-fr.facebook.com/">
+                        <img src="./Images/facebook.png" alt="logo Facebook"></a>
+                    </li>
+                    <li class="logo mt-3">
+                        <a target="_blank" href="https://twitter.com/?lang=fr">
+                        <img src="./Images/twitter.png" alt="logo Twitter"></a>
+                    </li>
+                    <li class="logo mt-3">
+                        <a target="_blank" href="https://www.instagram.com/">
+                        <img src="./Images/instagram.png" alt="logo Instagram"></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <nav class="mt-2">
+            <ul class="row list-unstyled py-1 text-center">
+                <li class="col"></li>
+                <li class="col"><a href="#">A propos</a></li>
+                <li class="col">Evenements</li>
+                <li class="col">Boutique</li>
+                <li class="col">Actualité</li>
+                <li class="col">Contact</li>
+                <li class="col"></li>
             </ul>
         </nav>
-
-        <div>
-            <ul>
-                <li>
-                    <a target="_blank" href="https://fr-fr.facebook.com/">
-                    <img src="./Images/facebook.png" alt="logo Facebook"></a>
-                </li>
-                <li>
-                    <a target="_blank" href="https://twitter.com/?lang=fr">
-                    <img src="./Images/twitter.png" alt="logo Twitter"></a>
-                </li>
-                <li>
-                    <a target="_blank" href="https://www.instagram.com/">
-                    <img src="./Images/instagram.png" alt="logo Instagram"></a>
-                </li>
-            </ul>
-        </div>
     </header>
     
     <main>
