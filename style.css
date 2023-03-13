@@ -1,3 +1,5 @@
+/* HEADER */
+
 .logo img {
   display: block;
   max-width: 40px;
@@ -13,20 +15,20 @@ header div h1 span {
   font-size: 1.5em;
 }
 
-header nav ul {
-  background-color: rgb(174, 93, 81);
+header .div_nav {
+  background: rgb(174, 93, 81);
 }
 
-header nav ul li {
+header div nav ul li {
   font-family: seriff;
   font-size: 1.1em;
 }
 
-header nav ul li a {
+header div nav ul li a {
   text-decoration: none;
   color: black;
 }
 
-header nav ul li:hover {
+header div nav ul li:hover {
   background: rgb(223, 71, 89);
 }
