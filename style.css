@@ -1,9 +1,7 @@
 /* HEADER */
-
-.logo img {
-  display: block;
-  max-width: 40px;
-  height: auto;
+header div div .acm_logo {
+  width: 100%;
+  min-width: 40px;
 }
 
 header div h1 {
@@ -13,6 +11,17 @@ header div h1 {
 header div h1 span {
   font-weight: bold;
   font-size: 1.5em;
+}
+
+header .logo img {
+  display: block;
+  width: 25px;
+}
+
+@media (min-width: 768px) {
+  header .logo img {
+    width: 35px;
+  }
 }
 
 header div div li img {
@@ -43,3 +52,7 @@ header div nav ul li:hover {
   background: rgb(223, 71, 89);
 }
 
+footer .logo img {
+  display: block;
+  width: 40px;
+}
