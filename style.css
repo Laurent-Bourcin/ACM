@@ -15,6 +15,16 @@ header div h1 span {
   font-size: 1.5em;
 }
 
+header div div li img {
+  -webkit-filter: drop-shadow(5px 5px 5px #666666);
+  filter: drop-shadow(5px 5px 5px #666666);
+}
+
+header div div li img:hover{
+  -webkit-filter: drop-shadow(5px 5px 5px #666666);
+  filter: drop-shadow(5px 5px 5px #f3f6f4);
+}
+
 header .div_nav {
   background: rgb(174, 93, 81);
 }
@@ -32,3 +42,4 @@ header div nav ul li a {
 header div nav ul li:hover {
   background: rgb(223, 71, 89);
 }
+
