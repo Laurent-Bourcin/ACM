@@ -64,6 +64,12 @@ header div nav ul li:hover {
   }
 }
 
+@media (min-width: 1200px) {
+  main .btn {
+    font-size: 1.5em;
+ }
+}
+
 /* FOOTER */
 footer .logo img {
   display: block;
