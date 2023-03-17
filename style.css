@@ -54,6 +54,16 @@ header div nav ul li:hover {
 
 /* MAIN */
 
+.card {
+  height: 100%;
+}
+
+@media (max-width: 576px) {
+   h5 {
+    font-size: 1em;
+  }
+}
+
 /* FOOTER */
 footer .logo img {
   display: block;
