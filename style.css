@@ -74,3 +74,13 @@ header div nav ul li:hover {
 footer .logo img {
   width: 40px;
 }
+
+footer .logo img {
+  -webkit-filter: drop-shadow(5px 5px 5px #666666);
+  filter: drop-shadow(5px 5px 5px #666666);
+}
+
+footer .logo img:hover{
+  -webkit-filter: drop-shadow(5px 5px 5px #666666);
+  filter: drop-shadow(5px 5px 5px #f3f6f4);
+}
