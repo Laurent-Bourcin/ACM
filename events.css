@@ -45,7 +45,7 @@ header div div .acm_logo {
     background: rgb(174, 93, 81);
   }
 
-  header .div_nav .nav_active {
+  header .nav_active {
     background: rgb(223, 71, 89);
   }
   
@@ -63,7 +63,13 @@ header div div .acm_logo {
     background: rgb(223, 71, 89);
   }
 
-  /* FOOTER */
+/* MAIN */
+
+.events_img {
+    width: 100%;
+}
+
+/* FOOTER */
 footer .logo img {
     width: 40px;
   }
