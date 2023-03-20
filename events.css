@@ -1,0 +1,68 @@
+/* HEADER */
+header div div .acm_logo {
+    width: 100%;
+    min-width: 40px;
+  }
+  
+  header div h1 {
+    font-family: seriff;
+  }
+  
+  header div h1 span {
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+  
+  header .logo img {
+    display: block;
+    width: 25px;
+  }
+  
+  @media (min-width: 768px) {
+    header .logo img {
+      width: 35px;
+    }
+  }
+  
+  header div div li img {
+    -webkit-filter: drop-shadow(5px 5px 5px #666666);
+    filter: drop-shadow(5px 5px 5px #666666);
+  }
+  
+  header div div li img:hover{
+    -webkit-filter: drop-shadow(5px 5px 5px #666666);
+    filter: drop-shadow(5px 5px 5px #f3f6f4);
+  }
+  
+  header .div_nav {
+    background: rgb(174, 93, 81);
+  }
+  
+  header div nav ul li {
+    font-family: seriff;
+    font-size: 1.1em;
+  }
+  
+  header div nav ul li a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  header div nav ul li:hover {
+    background: rgb(223, 71, 89);
+  }
+
+  /* FOOTER */
+footer .logo img {
+    width: 40px;
+  }
+  
+  footer .logo img {
+    -webkit-filter: drop-shadow(5px 5px 5px #666666);
+    filter: drop-shadow(5px 5px 5px #666666);
+  }
+  
+  footer .logo img:hover{
+    -webkit-filter: drop-shadow(5px 5px 5px #666666);
+    filter: drop-shadow(5px 5px 5px #f3f6f4);
+  }
