@@ -2,6 +2,13 @@
 header div div .acm_logo {
     width: 100%;
     min-width: 40px;
+    -webkit-filter: drop-shadow(5px 5px 5px #666666);
+    filter: drop-shadow(5px 5px 5px #666666);
+  }
+
+  header div div .acm_logo:hover {
+    -webkit-filter: drop-shadow(5px 5px 5px #666666);
+    filter: drop-shadow(5px 5px 5px #f3f6f4);
   }
   
   header div h1 {
