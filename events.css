@@ -64,6 +64,9 @@ header div div .acm_logo {
   }
 
 /* MAIN */
+article {
+    width: 90vw;
+}
 
 .events_img {
     width: 100%;
