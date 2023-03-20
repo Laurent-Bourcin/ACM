@@ -69,6 +69,18 @@ header div div .acm_logo {
     width: 100%;
 }
 
+h2 {
+    font-size: 1em;
+}
+
+main article p {
+    font-size: 0.8em;
+}
+
+main article a {
+    font-size: 0.8em;
+}
+
 /* FOOTER */
 footer .logo img {
     width: 40px;
