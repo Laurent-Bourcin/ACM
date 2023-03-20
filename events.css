@@ -44,6 +44,10 @@ header div div .acm_logo {
   header .div_nav {
     background: rgb(174, 93, 81);
   }
+
+  header .div_nav .nav_active {
+    background: rgb(223, 71, 89);
+  }
   
   header div nav ul li {
     font-family: seriff;
